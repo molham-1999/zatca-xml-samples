@@ -22,7 +22,3 @@ All samples are based on the **UBL 2.1 (Universal Business Language)** standard 
 
 - These XML files are for educational and testing purposes only.  
 - Make sure to adjust field values before submitting invoices to ZATCA systems.
-
-## 📬 Feedback
-
-For suggestions or improvements, feel free to open an **Issue** on this repository.
